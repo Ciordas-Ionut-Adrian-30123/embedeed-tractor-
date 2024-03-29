@@ -14,4 +14,5 @@ Project structure
 4. Programmed Arduino to manipulate the data and send signals to the motors.
 5. Configured mobile app
 
-https://www.youtube.com/shorts/6bgExUWa87U
+
+![c5ecd3d0-8251-4136-bbed-3b32af47199c](https://github.com/Ciordas-Ionut-Adrian-30123/embedeed-tractor-/assets/161496843/8e57b456-f976-4279-a301-9fe1e17b7b83)
